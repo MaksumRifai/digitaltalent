@@ -1,3 +1,38 @@
+# Create Your Own Web Virtual Reality
+
+<a href="https://github.com/MaksumRifai/digitaltalent/blob/master/ss-dts-2.jpg"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-2.jpg" width="600"></a>
+
+# Virtual Reality
+I used A-Frame, A-Frame Is A web framework for building virtual reality experiences, A-Frame handles the 3D and WebVR boilerplate required to get running across platforms including mobile, desktop, Vive, and Rift.
+
+# 3D Model
+You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on DTS Kominfo Logo with MagicaVoxel, you can watch tutorial on my youtube channel here:
+
+[10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
+
+# Live and Preview
+## Preview
+<a href="https://github.com/MaksumRifai/digitaltalent/blob/master/ss-dts-1.jpg"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="300"></a>
+## Live
+- https://maksumrifai.github.io/digitaltalent/
+- https://digitaltalent.netlify.app
+
+# How to use this template
+## Clonning
+Run the following command to clone this template to your local directory:
+```
+$ git clone https://github.com/MaksumRifai/digitaltalent.git
+
+```
+## Download
+Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/digitaltalent/archive/master.zip)
+## Customizing
+In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours.
+
+
+
+# References & Resources
+
 # A-Frame Boilerplate
 
 Web framework for building virtual reality experiences.
@@ -32,4 +67,8 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 
 All product (DTS) and company/entity names (Kominfo) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 Please refer to DTS [official website](https://digitalent.kominfo.go.id) for more Information.
+
+### Support Me
+<a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
+
 
