@@ -10,6 +10,8 @@ You can download and use 3D models or object from anywhere or create your own wi
 
 [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
 
+<a href="https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s"><img src="https://i3.ytimg.com/vi/0GfNYFcDjMU/hqdefault.jpg"></a>
+
 # Live and Preview
 ## Preview
 <a href="https://github.com/MaksumRifai/digitaltalent/blob/master/ss-dts-1.jpg"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="300"></a>
@@ -29,8 +31,7 @@ Use green button above and click "Download Zip" or simply click [here](https://g
 ## Customizing
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours.
 
-
-
+<br/><br/>
 # References & Resources
 
 # A-Frame Boilerplate
