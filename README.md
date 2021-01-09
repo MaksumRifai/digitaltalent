@@ -8,7 +8,8 @@ I used A-Frame, A-Frame Is A web framework for building virtual reality experien
 # 3D Model
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on DTS Kominfo Logo with MagicaVoxel, you can watch tutorial on my youtube channel here:
 
-[10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
+- [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
+- [Membuat rumah dengan MagicaVoxel](https://www.youtube.com/watch?v=nbfeWj46R3c)
 
 <a href="https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s"><img src="https://i3.ytimg.com/vi/0GfNYFcDjMU/hqdefault.jpg"></a>
 
@@ -16,8 +17,8 @@ You can download and use 3D models or object from anywhere or create your own wi
 ## Preview
 <a href="https://github.com/MaksumRifai/digitaltalent/blob/master/ss-dts-1.jpg"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="300"></a>
 ## Live
-- https://maksumrifai.github.io/digitaltalent/
 - https://digitaltalent.netlify.app
+- https://maksumrifai.github.io/digitaltalent/
 
 # How to use this template
 ## Clonning
@@ -29,7 +30,7 @@ $ git clone https://github.com/MaksumRifai/digitaltalent.git
 ## Download
 Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/digitaltalent/archive/master.zip)
 ## Customizing
-In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours.
+In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with right format.
 
 <br/><br/>
 # References & Resources
