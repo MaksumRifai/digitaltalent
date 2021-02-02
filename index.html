@@ -15,12 +15,12 @@
  <a-scene>
   <!--Load assets Object 3D, Preserve all your assets below before placing it to the scene (recommended)-->
   <a-assets>
-   <a-asset-item id="tree-obj" src="/DTS.obj"></a-asset-item>
-   <a-asset-item id="tree-mtl" src="/DTS.mtl"></a-asset-item>
+   <a-asset-item id="dts-obj" src="/DTS.obj"></a-asset-item>
+   <a-asset-item id="dts-mtl" src="/DTS.mtl"></a-asset-item>
   </a-assets>
   <!--End of assets Object-->
   <!--Using Assets Above with assets ID, add desire position/scale/rotation and simple Animation-->
-  <a-entity rotation="0 45 0" scale="0.01 0.01 0.01" position="0 0 -3" obj-model="obj: #tree-obj; mtl: #tree-mtl" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000"></a-entity>
+  <a-entity rotation="0 45 0" scale="0.01 0.01 0.01" position="0 0 -3" obj-model="obj: #dts-obj; mtl: #dts-mtl" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000"></a-entity>
   <!--Add Environtment Forest Preset, alternatively use <a-plan> and <a-sky> for custom ground and sky-->
   <a-entity environment="preset: forest; dressingAmount: 500"></a-entity>
   <!--Add Camera with custom height (3 meter), default is 1.6 (160 cm), remove line below will inject default camera-->
